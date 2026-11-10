@@ -1,0 +1,13 @@
+# Archivos derivados / regenerables (se exportan desde SolidWorks)
+*.stl
+*.STL
+*.pwscene
+*.m5sp
+*.3mf
+
+# Temporales de SolidWorks y Windows
+~$*
+*.SLDLFP
+*.tmp
+Thumbs.db
+desktop.ini
